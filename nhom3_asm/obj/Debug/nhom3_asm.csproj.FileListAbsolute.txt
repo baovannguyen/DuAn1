@@ -1,0 +1,15 @@
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\bin\Debug\nhom3_asm.exe.config
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\bin\Debug\nhom3_asm.exe
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\bin\Debug\nhom3_asm.pdb
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.csproj.AssemblyReference.cache
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.BaocaoThongKe.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.BaoHanh.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.Form1.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.LenDon.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.Properties.Resources.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.SanPham.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.SanPhamThue.resources
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.csproj.GenerateResource.cache
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.csproj.CoreCompileInputs.cache
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.exe
+D:\Fpoly\fpt polytechnic\DuAn1\Nhom3_ASM\NGQuan1207\DUAN1_NHOM3\nhom3_asm\obj\Debug\nhom3_asm.pdb
